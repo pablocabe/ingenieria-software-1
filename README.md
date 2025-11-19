@@ -11,5 +11,5 @@ Este repositorio está dividido en los cuatro módulos que se evalúan en la par
 * [Guías](./guias/): Hechas mediante consultas con los ayudantes en las clases prácticas.
 * [Historias de Usuario](./practica-2/): Ejercicios resueltos de la segunda práctica.
 * [Casos de Uso](./practica-3/): Ejercicios resueltos de la tercera práctica.
-* [Diagramas de Transición de Estados](./practica-3/): Ejercicios resueltos de la cuarta práctica.
+* [Diagramas de Transición de Estados](./practica-4/): Ejercicios resueltos de la cuarta práctica.
 * [Redes de Petri](./practica-5/): Ejercicios resueltos de la quinta práctica.
