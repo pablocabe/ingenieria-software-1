@@ -1,10 +1,6 @@
 # Ingeniería de Software 1
 Prácticas resueltas, guías y parciales de Ingeniería de Software 1 (2025)
 
-> **⚠️ Aclaración**
-> 
-> La gran mayoría de los ejercicios están corregidos, pero algunos pocos tienen errores que arrastré al principio de las prácticas y corregí a pocos días de los respectivos parciales.
-
 ### 📂 Estructura
 Este repositorio está dividido en los cuatro módulos que se evalúan en la parte práctica de la cursada y sus cuatro guías.
 
